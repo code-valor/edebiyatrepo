@@ -1,0 +1,185 @@
+{
+    "quizler": [
+        {
+            "quizid": "01",
+            "quizname": "Temel Akımlar",
+            "quizquestions": [{"qsoruid": "01", "qsoruindex": "01"}, {"qsoruid": "02", "qsoruindex": "02"}],
+            "quizcontent": "Realizm, Romantizm ve Klasisizm'in Temel İlke ve Özellikleri",
+            "quiztype": "test",
+            "difficulty": "4"
+        },
+        {
+            "quizid": "02",
+            "quizname": "Eserler ve Yazarlar",
+            "quizquestions": [{"qsoruid": "03", "qsoruindex": "01"}, {"qsoruid": "02", "qsoruindex": "02"}, {"qsoruid": "05", "qsoruindex": "03"}],
+            "quizcontent": "Yazarlar, Başyapıtları ve Tarzları",
+            "quiztype": "test",
+            "difficulty": "2"
+        },
+        {
+            "quizid": "03",
+            "quizname": "YKS Değerlendirmesi",
+            "quizquestions": [{"qsoruid": "06", "qsoruindex": "01"}, {"qsoruid": "07", "qsoruindex": "02"}, {"qsoruid": "08", "qsoruindex": "03"}, {"qsoruid": "09", "qsoruindex": "04"}, {"qsoruid": "10", "qsoruindex": "05"}, {"qsoruid": "11", "qsoruindex": "06"}],
+            "quizcontent": "YKS'de Çıkmış Sorular",
+            "quiztype": "test",
+            "difficulty": "2"
+        }
+    ],
+    "sorular": [
+        {
+            "soruid": "01",
+            "sorutext": "17. yüzyılda Fransa'da ortaya çıkan **klasisizme** tepki olarak doğan akım hangisidir?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Romantizm" },
+                { "answerid": "b", "answervalue": "Realizm" },
+                { "answerid": "c", "answervalue": "Sürrealizm" },
+                { "answerid": "d", "answervalue": "Natüralizm" },
+                { "answerid": "e", "answervalue": "Hümanizm" }
+            ],
+            "correctanswerid": "a",
+            "soruadvice": "Romantizm, 19. yüzyılda klasisizme tepki olarak halkı konu alan bir akım olarak doğmuştur.",
+            "sorusubject": "Klasisizm"
+        },
+        {
+            "soruid": "02",
+            "sorutext": "Realizm akımının etkisindeki eserler hakkında aşağıdakilerden hangisi doğrudur?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Sanat toplum içindir görüşünü benimser." },
+                { "answerid": "b", "answervalue": "Hayal ve his okuyucuya yansıtılır." },
+                { "answerid": "c", "answervalue": "Klasisizme tepki olarak doğmuştur." },
+                { "answerid": "d", "answervalue": "Konular gerçek hayattan alınır." },
+                { "answerid": "e", "answervalue": "İnsan daima önplandadır." }
+            ],
+            "correctanswerid": "d",
+            "soruadvice": "Realizm etkisindeki eserlerin konuları gerçek hayattan alınır.",
+            "sorusubject": "Klasisizm"
+        },
+        {
+            "soruid": "03",
+            "sorutext": "Aşağıdaki yazarlardan hangisi natüralist tarzdadır?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Ahmet Hamdi Tanpınar" },
+                { "answerid": "b", "answervalue": "Halide Edip Adıvar" },
+                { "answerid": "c", "answervalue": "Peyami Safa" },
+                { "answerid": "d", "answervalue": "Sait Faik" },
+                { "answerid": "e", "answervalue": "Hüseyin Rahmi Gürpınar" }
+            ],
+            "correctanswerid": "e",
+            "soruadvice": "Tanpınar sembolist, H.Edip milliyetçi, Peyami Safa psikolojik tahlil, Sait Faik durum tarzı eserler verirken Hüseyin Rahmi natüralisttir.",
+            "sorusubject": "Natüralizm"
+        },
+        {
+            "soruid": "04",
+            "sorutext": "Aşağıdaki isimlerden hangisinin etkilendiği akım diğerlerinden farklıdır?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Namık Kemal" },
+                { "answerid": "b", "answervalue": "Recaizade Mahmut Ekrem" },
+                { "answerid": "c", "answervalue": "Ahmet Mithat" },
+                { "answerid": "d", "answervalue": "Oğuz Atay" },
+                { "answerid": "e", "answervalue": "Abdülhak Hamit" }
+            ],
+            "correctanswerid": "d",
+            "soruadvice": "Oğuz Atay modernist isimdir, diğerleri romantik tarzda eserler verir.",
+            "sorusubject": "Romantizm"
+        },
+        {
+            "soruid": "05",
+            "sorutext": "Varoluşçuluk temasını işleyen eser aşağıdakilerden hangisidir?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Yusuf Atılgan-Aylak Adam" },
+                { "answerid": "b", "answervalue": "Ahmet Mithat-Felatun Bey’le Rakım Efendi" },
+                { "answerid": "c", "answervalue": "Mehmet Rauf-Eylül" },
+                { "answerid": "d", "answervalue": "Nabizade Nazım-Karabibik" },
+                { "answerid": "e", "answervalue": "Halit Ziya-Mai ve Siyah" }
+            ],
+            "correctanswerid": "a",
+            "soruadvice": "Varoluşçuluk bireyin kendi benliğini sorgulamasıdır.",
+            "sorusubject": "Varoluşçuluk"
+        },
+        {
+            "soruid": "06",
+            "sorutext": "\"*Gerçeği olduğu gibi yansıtmak benim işim değildir. Dış dünyayı duygu ve hayal gücüyle zenginleştirerek vermek, tabiatın güzelliklerini dile getirmek sanatın görevi olmalıdır.*\" görüşünü ileri süren bir sanatçı, aşağıdaki edebiyat akımlarından hangisinin **savunucusu** durumundadır?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Klasisizm" },
+                { "answerid": "b", "answervalue": "Romantizm" },
+                { "answerid": "c", "answervalue": "Realizm" },
+                { "answerid": "d", "answervalue": "Natüralizm" },
+                { "answerid": "e", "answervalue": "Sürrealizm" }
+            ],
+            "correctanswerid": "b",
+            "soruadvice": "Romantizmde duygu, coşkunluk ve hayal ön plandadır. Bunun yanında \"gerçeği yansıtmaya çalışmamak\" sözü bizi romantizme götürüyor.",
+            "sorusubject": "Romantizm"
+        },
+        {
+            "soruid": "07",
+            "sorutext": "**(I)**Klasik akıma bağlı sanatçılar arasında özellikle **(II)**didaktik şiir türünde ürün vermiş bir ad da **(III)**Moliere’dir. En önemli yapıtı **(IV)**Fabllar’dır. Bu türdeki ürünleri ondan önce **(V)**Ezop denemiştir.<br><br>Yukarıdaki numaralanmış sözlerin hangisinde bilgi yanlışı **vardır**?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "I." },
+                { "answerid": "b", "answervalue": "II." },
+                { "answerid": "c", "answervalue": "III." },
+                { "answerid": "d", "answervalue": "IV." },
+                { "answerid": "e", "answervalue": "V." }
+            ],
+            "correctanswerid": "c",
+            "soruadvice": "Klasisizm akımında fabl yazarı olan Moliere değil, La Fontaine'dir.",
+            "sorusubject": "Klasisizm"
+        },
+        {
+            "soruid": "08",
+            "sorutext": "Aşağıdakilerin hangisinde, belirtilen özellik birlikte verildiği akımla ilgili **değildir**?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Gözlem ve belgelere önem verme (Realizm)" },
+                { "answerid": "b", "answervalue": "Konuya değil, onun işleniş biçimine önem verme (Romantizm)" },
+                { "answerid": "c", "answervalue": "Güzelliğin, anlam açıklığında değil, kapalılıkta olduğuna inanma (Sembolizm)" },
+                { "answerid": "d", "answervalue": "Sanat, doğanın kopyası olmalıdır, ilkesini benimseme (Natüralizm)" },
+                { "answerid": "e", "answervalue": "Bilinçaltını akıl ve mantıktan üstün tutma (Sürrealizm)" }
+            ],
+            "correctanswerid": "b",
+            "soruadvice": "Konuya değil konunun işlenişine önem veren romantizm değil klasisizmdir.",
+            "sorusubject": "Klasisizm"
+        },
+        {
+            "soruid": "09",
+            "sorutext": "**(I)** Natüralizm duyularla algılanabilir gerçekliğin tıpatıp yansıtılmasını ilke edinmiştir. **(II)** Endüstrileşme sürecinde ortaya çıkan ekonomik ve ahlaksal bunalımla büyük kent halkının eleştirilmesi natüralizmin temel konularıdır. **(III)** Natüralizmin kökleri, düşünce tarihi açısından realizm içinde yer alır ama onu aşar çünkü natüralizm doğayı olduğu gibi yansıtmayı amaçlar. **(IV)** Natüralizmin temelinde deneysel doğa bilimlerinin verileri yatar. **(V)** Natüralizme göre, edebiyatın amacı, ciddi konuları, sanatlı biçimde işlemek; sanatta iyiye, gerçeğe ve güzele yönelmektir.<br><br>Bu parçadaki numaralanmış cümlelerin hangisinde belirtilenler, natüralizm akımıyla ilgili **değildir**?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "I." },
+                { "answerid": "b", "answervalue": "II." },
+                { "answerid": "c", "answervalue": "III." },
+                { "answerid": "d", "answervalue": "IV." },
+                { "answerid": "e", "answervalue": "V." }
+            ],
+            "correctanswerid": "e",
+            "soruadvice": "Natüralizmde olaylar ve kişiler bilim adamı gözüyle incelendiği için yaşamın iğrenç ve çirkin yönleri de olduğu gibi anlatılmıştır.",
+            "sorusubject": "Natüralizm"
+        },
+        {
+            "soruid": "10",
+            "sorutext": "\"*Bazen düşünüyorum da eğer benim yazdıklarım hayatla ilgili değilse insanların yaşadığı nasıl bir dünya? Bana göre, tüm kitaplarım gerçeği yansıtıyor. Ama hangi gerçeği? Benim gördüğüm gerçeği.*\"<br><br>Bu parçada sanat anlayışını belirten yazarın aşağıdaki akımlardan hangisine bağlı olduğu **söylenebilir**?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Natüralizm" },
+                { "answerid": "b", "answervalue": "İzlenimcilik" },
+                { "answerid": "c", "answervalue": "Klasisizm" },
+                { "answerid": "d", "answervalue": "Gerçeküstücülük" },
+                { "answerid": "e", "answervalue": "Sembolizm" }
+            ],
+            "correctanswerid": "b",
+            "soruadvice": "Gerçeği değil de gerçeğin bireyin üzerinde bıraktığı etkiyi anlatan akım İzlenimciliktir.",
+            "sorusubject": "İzlenimcilik"
+        },
+        {
+            "soruid": "11",
+            "sorutext": "Bir 18. yüzyıl düşünürü olan J.J. Rousseau ister özel ister kamusal hayatımızda olsun, yaşadığımız şeylerin, aklın değil duyguların ve doğal içgüdülerin gereklerini karşılayıp karşılamadığını sormamız gerektiğini söyler. Bireyselliği ve doğayı gündeme getirir. Ona göre, gerçekliği parçalayan ve anlaşılmaz hâle getiren aklın bütün tahlilleri yapaydır.<br><br>Buna göre J. J. Rousseau'nun hangi hareketin öncülüğünü yaptığı **ileri sürülebilir**?",
+            "soruanswers": [
+                { "answerid": "a", "answervalue": "Klasisizm" },
+                { "answerid": "b", "answervalue": "Realizm" },
+                { "answerid": "c", "answervalue": "Romantizm" },
+                { "answerid": "d", "answervalue": "Natüralizm" },
+                { "answerid": "e", "answervalue": "Empresyonizm" }
+            ],
+            "correctanswerid": "c",
+            "soruadvice": "Romantizm, aklın yerine duyguların öne çıkmasını savunur.",
+            "sorusubject": "Romantizm"
+        }
+
+    ]
+}
